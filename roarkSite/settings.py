@@ -25,7 +25,7 @@ SECRET_KEY = '-p05s2tgdroa4=7j(so6(givjgvvs!v1ok5^y$876ay3e#pb-b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['52.187.6.27', 'tuvshinkhuu.tk']
 
 
 # Application definition

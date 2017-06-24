@@ -1,0 +1,9 @@
+{
+  "REPO_URL":"https://github.com/isrltuvi/tuviblog.git",
+  "PROJECT_NAME":"roarkSite",
+  "REMOTE_HOST":"tuvshinkhuu.tk",
+  "REMOTE_USER":"django",
+  "STATIC_ROOT":"static",
+  "STATIC_URL":"static",
+  "MEDIA_ROOT":"media"
+}
